@@ -1,13 +1,13 @@
 LoveApp
 =======
 The Best App you could ever Love
-Made by Sarah Yadegari with support from Brian Andress
 -------
 
 Project Title
 ---------
 _LoveApp_ is a project to inspire creativity in oneself, share love and allow others to instantly feel loved even when they are far from loved ones.
 
+Made by Sarah Yadegari with support from Brian Andress
 -------
 
 Motivation
